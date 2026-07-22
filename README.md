@@ -5,7 +5,6 @@ A responsive Kanban Board application that helps users organize and manage tasks
 ## Features
 
 - Create new tasks
-- Edit existing tasks
 - Delete tasks
 - Drag and drop tasks between columns
 - Responsive design for desktop and mobile
